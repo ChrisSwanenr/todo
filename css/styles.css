@@ -1,0 +1,13 @@
+
+
+.todo {
+  cursor: pointer;
+  color: #0099cc;
+}
+.todo:hover {
+  text-decoration: line-through;
+}
+
+.result {
+  display: none;
+}
